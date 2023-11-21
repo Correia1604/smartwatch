@@ -1,0 +1,34 @@
+C:\Users\Joao Correia\Desktop\App_relogio\Relogio_saude\Relogio_saude\bin\Debug\Relogio_saude.exe.config
+C:\Users\Joao Correia\Desktop\App_relogio\Relogio_saude\Relogio_saude\bin\Debug\Relogio_saude.exe
+C:\Users\Joao Correia\Desktop\App_relogio\Relogio_saude\Relogio_saude\bin\Debug\Relogio_saude.pdb
+C:\Users\Joao Correia\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.csprojAssemblyReference.cache
+C:\Users\Joao Correia\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Pag_inicial.resources
+C:\Users\Joao Correia\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Properties.Resources.resources
+C:\Users\Joao Correia\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.csproj.GenerateResource.cache
+C:\Users\Joao Correia\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.csproj.CoreCompileInputs.cache
+C:\Users\Joao Correia\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.exe
+C:\Users\Joao Correia\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.pdb
+C:\Users\Joao Correia\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Ecra_2.resources
+C:\Users\Joao Correia\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Trigger.resources
+C:\Users\Joao Correia\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Teste.resources
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.csprojAssemblyReference.cache
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Ecra_2.resources
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Pag_inicial.resources
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Properties.Resources.resources
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Trigger.resources
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.csproj.GenerateResource.cache
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.lanterna.resources
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Alarme_higiene.resources
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Alarme_medicacao.resources
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Chamar.resources
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Chamar.pt.resources
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Registo_dados.resources
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\bin\Debug\SmartWatch.exe.config
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\bin\Debug\SmartWatch.exe
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\bin\Debug\SmartWatch.pdb
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\bin\Debug\pt\SmartWatch.resources.dll
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\Relogio_saude.Alarme_paciente.resources
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\pt\SmartWatch.resources.dll
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\SmartWatch.exe
+C:\Users\joaop\Desktop\App_relogio\Relogio_saude\Relogio_saude\obj\Debug\SmartWatch.pdb
